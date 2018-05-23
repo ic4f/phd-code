@@ -1,8 +1,8 @@
-# Ph.D. code
+# Ph.D. dissertation research code
 
 > **This project is deprecated and not maintained. It exists for historical reasons only.**
 
-This is the code I wrote for my Ph.D. dissertation at the University of Maryland. It is primarily
+This is the code I wrote for my Ph.D. dissertation at the University of Maryland (2012). It is primarily
 large-scale text reuse detection with basic sentiment analysis. It was used to construct a large
 data set containing press releases and related news coverage and analyze the relationship between
 these two groups. The results of the data analysis were used to challenge an existing social
